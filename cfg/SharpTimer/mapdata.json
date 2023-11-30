@@ -293,5 +293,131 @@
     "MapEndC1": "1600 128 40",
     "MapEndC2": "2176 -256 180",
     "RespawnPos": "3544 -80 1440"
+  },
+  "kz_ehcivec_v1": {
+    "MapStartC1": "50 -1267 50",
+    "MapStartC2": "-300 -1400 150",
+    "MapEndC1": "1610 3262 430",
+    "MapEndC2": "2523 3918 550",
+    "RespawnPos": "-115 -1389 8"
+  },
+  "kz_sxb2_misato": {
+    "MapStartC1": "1968 536 160",
+    "MapStartC2": "2200 300 270",
+    "MapEndC1": "2210 -2500 1630",
+    "MapEndC2": "2439 -2735 1700",
+    "RespawnPos": "2022 347 144"
+  },
+  "kz_rc_twotowers": {
+    "MapStartC1": "315 735 200",
+    "MapStartC2": "-121 230 10",
+    "MapEndC1": "638 -830 8424",
+    "MapEndC2": "194 830 8550",
+    "RespawnPos": "9 512 7"
+  },
+  "kz_kiwi_hym": {
+    "MapStartC1": "335 300 128",
+    "MapStartC2": "123 100 200",
+    "MapEndC1": "191 2640 2120",
+    "MapEndC2": "80 3376 2250",
+    "RespawnPos": "288 212 128"
+  },
+  "kz_tranquility": {
+    "MapStartC1": "-2945 -1406 100",
+    "MapStartC2": "-3006 -1344 228",
+    "MapEndC1": "-1713 -171 3876",
+    "MapEndC2": "-2640 -2640 4000",
+    "RespawnPos": "-2986 -1182 64"
+  },
+  "kz_victoria": {
+    "MapStartC1": "1790 -1113 48",
+    "MapStartC2": "1536 -1367 170",
+    "MapEndC1": "717 1854 443",
+    "MapEndC2": "474 1609 570",
+    "RespawnPos": "1679 -1247 48"
+  },
+  "kz_summercliff2_go": {
+    "MapStartC1": "-755 -74 -2353",
+    "MapStartC2": "-688 175 -2200",
+    "MapEndC1": "415 -633 3732",
+    "MapEndC2": "479 -700 3900",
+    "RespawnPos": "-619 330 -2336"
+  },
+  "kz_concrete": {
+    "MapStartC1": "-473 -1391 176",
+    "MapStartC2": "-600 -1360 304",
+    "MapEndC1": "727 1935 2800",
+    "MapEndC2": "1100 1500 3000",
+    "RespawnPos": "-548 -1654 128"
+  },
+  "kz_bn_hym": {
+    "MapStartC1": "-410 -1480 480",
+    "MapStartC2": "-415 -1568 620",
+    "MapEndC1": "623 3072 3000",
+    "MapEndC2": "-623 3311 3150",
+    "RespawnPos": "-581 -1566 416"
+  },
+  "kz_checkmate": {
+    "MapStartC1": "-3666 866 -6500",
+    "MapStartC2": "-3281 479 -6688",
+    "MapEndC1": "-3200 3015 -416",
+    "MapEndC2": "-2880 2756 -280",
+    "RespawnPos": "-3564 1030 -6715"
+  },
+  "kz_alfama": {
+    "MapStartC1": "-1471 -1711 688",
+    "MapStartC2": "-1184 -1456 820",
+    "MapEndC1": "984 -35 900",
+    "MapEndC2": "1448 200 1100",
+    "RespawnPos": "-1305 -1620 688"
+  },
+  "kz_leto_v2": {
+    "MapStartC1": "248 -127 -400",
+    "MapStartC2": "92 14 -375",
+    "MapEndC1": "3953 64 1124",
+    "MapEndC2": "4030 -63 1280",
+    "RespawnPos": "-35 200 -504"
+  },
+  "kz_rc_stonehenge": {
+    "MapStartC1": "-864 -48 48",
+    "MapStartC2": "-816 -96 176",
+    "MapEndC1": "1 -2050 4504",
+    "MapEndC2": "511 -2558 4650",
+    "RespawnPos": "-987 -101 80"
+  },
+  "kz_ltt": {
+    "MapStartC1": "-623 -726 93",
+    "MapStartC2": "-504 -656 201",
+    "MapEndC1": "-965 -5000 4253",
+    "MapEndC2": "-660 8 4450",
+    "RespawnPos": "8 175 29"
+  },
+  "kz_ggsh": {
+    "MapStartC1": "8200 5497 -861",
+    "MapStartC2": "8056 5638 -732",
+    "MapEndC1": "-6544 7278 1300",
+    "MapEndC2": "-6416 7216 1430",
+    "RespawnPos": "8123 5553 -798"
+  },
+  "kz_nomibo": {
+    "MapStartC1": "-2255 -2528 64",
+    "MapStartC2": "-2208 -2422 200",
+    "MapEndC1": "-2226 606 1760",
+    "MapEndC2": "-2326 464 1900",
+    "RespawnPos": "-2380 -2180 64"
+  },
+  "kz_phamous": {
+    "MapStartC1": "-2176 656 -128",
+    "MapStartC2": "-2455 305 0",
+    "MapEndC1": "-3648 -304 -203",
+    "MapEndC2": "-3376 -144 -60",
+    "RespawnPos": "-2300 5000 -128"
+  },
+  "kz_gus": {
+    "MapStartC1": "2576 -1232 512",
+    "MapStartC2": "2305 -1408 640",
+    "MapEndC1": "1920 -1312 1568",
+    "MapEndC2": "1872 -1375 1700",
+    "RespawnPos": "2550 -1317 512"
   }
 }
